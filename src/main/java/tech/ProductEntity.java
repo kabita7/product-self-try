@@ -28,7 +28,8 @@ public class ProductEntity {
 	    public int getproductId() {
 	        return productId;
 	    }
-
+//just try 
+	    
 	    public void setId(int id) {
 	        this.productId = productId;
 	    }
